@@ -1,0 +1,19 @@
+/* style.css */
+
+/* Header styles */
+header {
+    background-color: #64d4d4;
+    padding: 10px;
+    text-align: center;
+}
+
+ h2 {
+    color:#856c0b;
+    font-size: 24px;
+    margin: 2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #08e4c6;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
