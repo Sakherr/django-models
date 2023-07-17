@@ -11,4 +11,6 @@ How to initialize/run your application (where applicable)
 python manage.py runserver
 
 
-no test 
+Test 
+
+python manage.py test 
